@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectCard from "../sub/ProjectCard";
-import video from "./asset.video.mp4"; 
+//import video from "./asset.video.mp4"; 
 
 const Projects = () => {
   return (
